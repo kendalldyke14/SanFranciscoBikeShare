@@ -1,4 +1,4 @@
-# SanFranciscoBikeShare
+# Bike Share Comparison - New York and San Francisco
 Master of Applied Data Science - Milestone I Project (Bike Share Comparison)
 Members: Tia Burton, Zealand Cooley, Kendall Dyke
 Start date: August 2nd, 2021
